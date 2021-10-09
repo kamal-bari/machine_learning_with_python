@@ -1,22 +1,22 @@
-Lecture 1: Difference between Supervised Learning & Unsupervised Learning
-Defining Machine Learning: What can ML do?
-How ML works?
-Machine Learning terminologies
-Supervised Learning, Unsupervised Learning, Deep Learning
-Lecture 2: Supervised Learning: Linear Regression
-Supervised Learning: Linear Regression
-train data, test data
-Understanding the equation of a straight line
-feature coefficient (slope, gradient, m)
-bias coeffcient (y-interccept, c)
-domain: x-axis, independent variable
-range: y-axis, dependent variable
-loss function, cost function, objective function, error function
-bias-variance tradeoff, overfitting, underfitting
-ordinary least square method
-gradient descent method
-residual, error, squared error, RMSE - Root Mean Squared Error
-Lecture 3: Supervised Learning: Linear Regression and Regression accuracy metrics
+## Lecture 1: Difference between Supervised Learning & Unsupervised Learning
+<br> - Defining Machine Learning: What can ML do?
+<br> - How ML works?
+<br> - Machine Learning terminologies
+<br> - Supervised Learning, Unsupervised Learning, Deep Learning
+## Lecture 2: Supervised Learning: Linear Regression
+<br> - Supervised Learning: Linear Regression
+<br> - train data, test data
+<br> - Understanding the equation of a straight line
+<br> - feature coefficient (slope, gradient, m)
+<br> - bias coeffcient (y-interccept, c)
+<br> - domain: x-axis, independent variable
+<br> - range: y-axis, dependent variable
+<br> - loss function, cost function, objective function, error function
+<br> - bias-variance tradeoff, overfitting, underfitting
+<br> - ordinary least square method
+<br> - gradient descent method
+<br> - residual, error, squared error, RMSE - Root Mean Squared Error
+## Lecture 3: Supervised Learning: Linear Regression and Regression accuracy metrics
 Supervised Learning: Linear Regression
 Accuracy metric in Regression problem
 Mean Absolute Error (MAE)
