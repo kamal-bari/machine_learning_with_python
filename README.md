@@ -35,3 +35,11 @@
 <br> - Classification report
 ### Lecture 6: Supervised Learning - Decision Tree
 <br> - Decision Tree Classification and Regression
+### Lecture 7: Supervised Learning - Decision Tree, Cross-validation and Grid Search
+<br> - Decision Tree Classification
+<br> - Cross-Validation
+<br> - Grid Search
+### Lecture 8: Unsupervised Learning - K-means Clustering
+<br> - Unsupervised Learning
+<br> - K-means Clustering
+<br> - Elbow method
